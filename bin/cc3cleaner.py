@@ -19,7 +19,7 @@ binDir  = os.path.join(programmDir, 'bin')
 outDir  = os.path.join(programmDir, 'out')
 picsDir = os.path.join(programmDir, 'pics')
 tempDir = os.path.join(programmDir, 'temp')
-sendDir = '\\\\Berbrs03\\UFTP\\CC2\\%s\\OUT'
+sendDir = '\\\\WXFR\\FTP\\CC2\\%s\\OUT'
 
 windowTitle     = u'Очистка СС3'       # заголовок окна
 applicationIcon = os.path.join(picsDir, 'cc3cleaner.png')  # иконка приложения
